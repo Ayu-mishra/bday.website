@@ -3,7 +3,8 @@ body {
     padding: 0;
     background: #ffe;
     font-size: 12px;
-    overflow: auto
+    overflow: auto 
+	    
 }
 
 #mainDiv {
@@ -109,6 +110,10 @@ body {
     position: absolute;
     top: 100px;
     left: 0
+}
+#gfgf
+{
+	
 }
 
 #copyright a {
